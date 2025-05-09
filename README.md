@@ -23,5 +23,6 @@
 ##The final output of this ETL process is a cleaned, preprocessed dataset saved as a CSV file named diabetes_processed.csv in the ./processed_data/ directory.
 
 
+#OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/19f09823-048f-4497-bd3b-13a92bdfe16c)
